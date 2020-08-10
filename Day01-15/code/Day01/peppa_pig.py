@@ -190,7 +190,7 @@ def setting():
 
 def main():
     """主函数"""
-    setting() 
+    setting()
     nose(-100, 100)
     head(-69, 167)
     ears(0, 160)
